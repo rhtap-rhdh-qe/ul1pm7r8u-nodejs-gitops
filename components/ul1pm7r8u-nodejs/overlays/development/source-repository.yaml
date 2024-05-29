@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ul1pm7r8u-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ul1pm7r8u-nodejs
